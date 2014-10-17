@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkb:home|Door43 (xkb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkb|d43-xkb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkb/archive/master.zip|d43-xkb.zip]]
+
+**Recent Changes**
+{{changes>ns = xkb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkb|Ethnologue data]]
+
